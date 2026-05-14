@@ -6,5 +6,6 @@ public class Main {
     static void main() {
         System.out.println("Hello Mavan and JDK-24");
         System.out.println("Hello Git and JDK-24");
+        System.out.println("Hello Git and JDK-24");
     }
 }
